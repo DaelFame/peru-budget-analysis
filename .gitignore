@@ -1,0 +1,21 @@
+# Entorno Virtual (UV)
+.venv/
+__pycache__/
+*.pyc
+
+# Datos (NUNCA subir archivos pesados a GitHub)
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+*.crdownload
+
+# IDEs y Herramientas
+.dbeaver/
+.project
+.directory
+.vscode/
+
+# Logs y Temporales
+*.log
+.xdp-*
