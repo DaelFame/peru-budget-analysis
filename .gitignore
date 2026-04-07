@@ -19,3 +19,6 @@ data/processed/
 # Logs y Temporales
 *.log
 .xdp-*
+
+# Seguridad y Variables de Entorno
+.env
